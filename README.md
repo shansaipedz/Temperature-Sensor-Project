@@ -40,7 +40,7 @@ A complementary **Temperature Subscriber** project is suggested by the build con
 3. Run the project using:
 
    ```bash
-   mvn compile exec:java
+   mvn compile exec: java
    ```
 
    or via NetBeans run actions.
